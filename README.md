@@ -1,28 +1,28 @@
 # skills
 
-Personal agent skills. The [skills CLI](https://github.com/vercel-labs/skills) discovers each skill in `skills/<name>/SKILL.md`.
+Skills personales para agentes. La [CLI de skills](https://github.com/vercel-labs/skills) detecta cada skill en `skills/<nombre>/SKILL.md`.
 
 ## Skills
 
-- `feature-first-architecture`: read-only analysis that proposes a feature-first reorganization of a frontend `src`.
+- `feature-first-architecture`: análisis de solo lectura que propone reorganizar el `src` de un proyecto frontend con un enfoque feature-first.
 
-## Install
+## Instalación
 
-From a project:
+Desde un proyecto:
 
 ```bash
 npx skills add andrespineiro/skills
 ```
 
-List skills. Do not install them:
+Listar las skills sin instalarlas:
 
 ```bash
 npx skills add andrespineiro/skills --list
 ```
 
-## Add a skill
+## Añadir una skill
 
-1. Create `skills/<name>/SKILL.md`.
-2. Set `name` to the directory name. Use lowercase letters, numbers, and hyphens.
-3. Set `description` to what the skill does and when to use it.
-4. Commit and push to `main`.
+1. Crea `skills/<nombre>/SKILL.md`.
+2. Pon en `name` el nombre del directorio. Usa minúsculas, números y guiones.
+3. Pon en `description` qué hace la skill y cuándo usarla.
+4. Haz commit y push a `main`.
