@@ -5,6 +5,7 @@ Skills personales para agentes. La [CLI de skills](https://github.com/vercel-lab
 ## Skills
 
 - `feature-first-architecture`: análisis de solo lectura que propone reorganizar el `src` de un proyecto frontend con un enfoque feature-first.
+- `browser-routine-to-api`: convierte los pasos de navegador de una routine de Claude Code en un script que llama directamente a la API, y muestra el diff de coste en tokens antes de cambiar nada.
 
 ## Instalación
 
