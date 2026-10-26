@@ -2,7 +2,9 @@
 
 Personal agent skills. The [skills CLI](https://github.com/vercel-labs/skills) discovers each skill in `skills/<name>/SKILL.md`.
 
-This package has no skills yet.
+## Skills
+
+- `feature-first-architecture`: read-only analysis that proposes a feature-first reorganization of a frontend `src`.
 
 ## Install
 
